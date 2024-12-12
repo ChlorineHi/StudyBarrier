@@ -1,0 +1,6 @@
+Batch Size: 1024
+Learning Rate: 0.001
+Epochs: 70
+Sigma: 2.5
+Alpha: 1.0
+Gamma: 1.0

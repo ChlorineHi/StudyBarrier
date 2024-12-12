@@ -1,0 +1,7 @@
+Batch Size: 1024
+Learning Rate: 1.0
+Epochs: 100
+Number of Clusters: 9
+Sigma: 2.5
+Alpha: 1.0
+Gamma: 1.0
